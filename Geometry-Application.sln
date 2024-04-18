@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeoAppcon", "GeoAppcon\GeoAppcon.csproj", "{EDA09841-B81C-408A-90DF-AA00BD87253F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeoApplib", "GeoApplib\GeoApplib.csproj", "{F57F3919-687A-4699-9070-9A4F1F790481}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeoApptest", "GeoApptest\GeoApptest.csproj", "{248577AB-7629-429A-A313-D53687C09A33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDA09841-B81C-408A-90DF-AA00BD87253F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDA09841-B81C-408A-90DF-AA00BD87253F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDA09841-B81C-408A-90DF-AA00BD87253F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDA09841-B81C-408A-90DF-AA00BD87253F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F57F3919-687A-4699-9070-9A4F1F790481}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F57F3919-687A-4699-9070-9A4F1F790481}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F57F3919-687A-4699-9070-9A4F1F790481}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F57F3919-687A-4699-9070-9A4F1F790481}.Release|Any CPU.Build.0 = Release|Any CPU
+		{248577AB-7629-429A-A313-D53687C09A33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{248577AB-7629-429A-A313-D53687C09A33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{248577AB-7629-429A-A313-D53687C09A33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{248577AB-7629-429A-A313-D53687C09A33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
